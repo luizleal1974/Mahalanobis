@@ -1,5 +1,7 @@
 # Mahalanobis
-Mahalanobis Distance (Multivariate Outlier Detection)
+
+<p align="justify">Este repositório diponibiliza o método multivariado de detecção de outier baseado na distância de Mahalanobis:</p>
+
 
 <a target='_blank' rel='noopener noreferrer' href='https://doi.org/10.1016/j.jesp.2017.09.011' title=''><code>Leys, 2018</code></a>
 
