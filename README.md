@@ -4,6 +4,7 @@
 
 <p align="justify">
 <li>Simples</li>
+
 <li>Robusta (<a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Mahalanobis/blob/main/Files/Mahalanobis_MCD.pdf'><code>PDF</code></a>)</li>
 </p>
 
