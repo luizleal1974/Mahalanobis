@@ -3,9 +3,9 @@
 <p align="justify">Este repositório diponibiliza o método multivariado de detecção de outier baseado na distância de Mahalanobis:</p>
 
 <p align="justify">
-<li>Simples</li>
+&bull; Simples
 
-<li>Robusta (<a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Mahalanobis/blob/main/Files/Mahalanobis_MCD.pdf'><code>PDF</code></a>)</li>
+&bull; Robusta (<a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Mahalanobis/blob/main/Files/Mahalanobis_MCD.pdf'><code>PDF</code></a>)
 </p>
 
 
