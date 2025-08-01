@@ -12,7 +12,7 @@
 
 ```{r}
 # Carregar função do GitHub
-path = "https://github.com/luizleal1974/Robust-Confidence-Ellipsoid/raw/main/RCE.R"
+path = "https://github.com/luizleal1974/Mahalanobis/raw/main/Files/Mahalanobis_OD.R"
 devtools::source_url(path)
 
 # Dados
